@@ -1,1 +1,1 @@
-# store_csv_to_postgres
+# Load csv file to postgreSQL
